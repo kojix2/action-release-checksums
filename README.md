@@ -1,5 +1,7 @@
 # action-release-checksums
 
+Background information: https://github.com/orgs/community/discussions/23512#discussioncomment-6602360
+
 ```yaml
 name: Release
 
